@@ -1,4 +1,5 @@
 Data Prep Essencial: Desafio Titanic (Kaggle)
+
 🚢 Visão Geral do Projeto
 Este projeto documenta um pipeline completo de Data Preprocessing (Pré-processamento de Dados) para o renomado dataset do desafio Titanic, do Kaggle. O objetivo é transformar o conjunto de dados bruto em uma base limpa, tratada, e pronta para ser consumida por modelos de Machine Learning, seguindo as melhores práticas da ciência de dados.
 
